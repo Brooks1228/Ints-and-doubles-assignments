@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{611E9196-A42D-431C-A4A6-D7D5CFAFBFB4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Ints_and_doubles_assignments.ex4</StartupObject>
+    <StartupObject>Ints_and_doubles_assignments.ex6</StartupObject>
     <RootNamespace>Ints_and_doubles_assignments</RootNamespace>
     <AssemblyName>Ints and doubles assignments</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -72,6 +72,8 @@
     <Compile Include="ex2.vb" />
     <Compile Include="ex3.vb" />
     <Compile Include="ex4.vb" />
+    <Compile Include="ex5.vb" />
+    <Compile Include="ex6.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
